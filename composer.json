@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "name": "nonagod/<module_name>",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Nonagod\\<module_namespace>": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Nonagod",
+      "homepage": "https://github.com/Nonagod"
+    }
+  ],
+  "require": {}
+}
