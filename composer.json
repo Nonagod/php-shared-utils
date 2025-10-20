@@ -1,11 +1,11 @@
 {
   "version": "0.0.0",
-  "name": "nonagod/<module_name>",
+  "name": "nonagod/shared-utils",
   "type": "project",
   "license": "MIT",
   "autoload": {
     "psr-0": {
-      "Nonagod\\<module_namespace>": "src/"
+      "Nonagod\\": "src/"
     }
   },
   "authors": [
