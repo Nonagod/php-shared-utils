@@ -1,6 +1,5 @@
-
-Минимум при создании на основе шаблона:
-- в `composer.jdon` изменить: `name`, `autoload`, `authors`
-- очистить `src` от файла-метки
-- очистить `README.md`
-- далее см. инструкцию в Obsidian: "Создание и публикация публичного пакета"
+Содержание пакета:
+- `Nonagod\` - 
+  - `Enumeration\` - 
+    - `SelectEnumInterface` - описание абстракции для `enum`, под работу с `select`
+    - `SelectEnumTrait` - реализация части методов `SelectEnumInterface`
